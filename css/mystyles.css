@@ -64,6 +64,12 @@ footer {
 	align-items: center;
 }
 
+#video {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 #s1 header {
 	text-align:center;
 	color:#fff;
